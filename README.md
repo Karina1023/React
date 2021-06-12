@@ -1,4 +1,5 @@
 React: Employee-Directory
+
 Decription
 I created an employee directory with React, I broke up the application's UI into components, manage component state, and respond to user events.
 
@@ -14,9 +15,10 @@ Node packages
 React.js
 HTML
 CSS
+GitHub 
 
 Deployed
-https://nameless-fjord-75014.herokuapp.com/
+https://karina1023.github.io/React/
 
 Contact
 karinaayala12@ymail.com
